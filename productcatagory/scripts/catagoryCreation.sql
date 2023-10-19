@@ -1,0 +1,1 @@
+INSERT INTO ProductCategory (CategoryID, Name, Description)VALUES (%s,%s, %s)

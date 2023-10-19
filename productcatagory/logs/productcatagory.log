@@ -1,0 +1,734 @@
+2023-10-17 12:11:05,353 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:11:05,353 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-17 12:11:05,353 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:11:06,243 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:11:06,244 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-17 12:11:06,244 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:12:15,147 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:12:15,147 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:12:15,147 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:12:27,418 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:12:27,419 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:12:27,419 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:12:28,522 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:12:28,522 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:12:28,522 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:16:17,134 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:16:17,134 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:16:17,134 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:16:29,319 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:16:29,319 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:16:29,319 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:16:30,292 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:16:30,293 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:16:30,293 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:29:13,155 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:29:13,155 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:29:13,155 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:29:13,981 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:29:13,981 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:29:13,981 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:34:39,547 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:34:39,547 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:34:39,547 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:34:42,370 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:34:42,370 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:34:42,370 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:34:44,591 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering a Shop
+2023-10-17 12:35:09,372 - kuberCart - INFO - [CatagoryListing] - Thread Thread-7: Registering a Shop
+2023-10-17 12:35:09,373 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 12:35:09,569 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 12:35:09,569 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 12:35:11,684 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:35:11,685 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:35:11,685 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:35:30,586 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:35:30,586 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:35:30,586 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:43:12,675 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:43:12,676 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:43:12,676 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:59:06,271 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 12:59:06,271 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 12:59:06,271 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 12:59:11,109 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering a Shop
+2023-10-17 12:59:11,111 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 12:59:11,154 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 12:59:11,154 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:00:26,768 - kuberCart - INFO - [CatagoryListing] - Thread Thread-8: Registering a Shop
+2023-10-17 13:00:26,769 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:00:26,804 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:00:26,804 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:00:36,624 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:00:36,624 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:00:36,628 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:00:37,722 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:00:37,722 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:00:37,722 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:00:41,669 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering a Shop
+2023-10-17 13:00:41,671 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:00:41,725 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:00:41,725 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:01:50,963 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:01:50,964 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:01:50,964 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:02:13,347 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:02:13,347 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:02:13,347 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:03:51,119 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:03:51,120 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:03:51,120 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:04:21,151 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering a Shop
+2023-10-17 13:04:21,152 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:04:21,201 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:04:21,201 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:05:06,657 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:05:06,658 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:05:06,658 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:05:10,646 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:05:10,646 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:05:10,646 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:05:12,269 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:05:12,270 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:05:12,270 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:05:16,859 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: adding category
+2023-10-17 13:05:16,860 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:05:16,905 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:05:16,906 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:09:04,639 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:09:04,640 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:09:04,640 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:09:06,174 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:09:06,175 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:09:06,175 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:09:09,263 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: adding category
+2023-10-17 13:09:09,265 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:09:09,311 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:09:09,312 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 13:11:36,363 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:11:36,364 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:11:36,364 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:12:12,417 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 13:12:12,417 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 13:12:12,417 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 13:12:14,621 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: adding category
+2023-10-17 13:12:14,622 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-17 13:12:14,668 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-17 13:12:14,668 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-17 18:57:34,923 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 18:57:34,924 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 18:57:34,924 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:00:21,477 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:00:21,477 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:00:21,477 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:00:31,393 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:00:31,394 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:00:31,394 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:01:16,989 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:01:16,989 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:01:16,989 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:02:57,227 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:02:57,227 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:02:57,227 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:03:22,644 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:03:22,645 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:03:22,645 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:03:39,506 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:03:39,507 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:03:39,507 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:03:48,688 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:03:48,692 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:03:48,692 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:06:34,396 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:06:34,396 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:06:34,396 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:07:09,348 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:07:09,348 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:07:09,349 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:07:52,548 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:07:52,549 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:07:52,549 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:08:08,373 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:08:08,373 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:08:08,373 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:08:49,882 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:08:49,883 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:08:49,883 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 19:11:52,234 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 19:11:52,234 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 19:11:52,234 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 22:53:30,779 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 22:53:30,780 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 22:53:30,780 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-17 22:53:33,938 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-17 22:53:33,938 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-17 22:53:33,938 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:41:31,305 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:41:31,305 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:41:31,305 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:41:32,298 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:41:32,299 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:41:32,299 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:41:37,680 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: adding category
+2023-10-18 23:41:37,683 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-18 23:41:37,845 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-18 23:41:37,845 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-18 23:41:40,512 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:41:40,512 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:41:40,512 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:42:25,805 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:42:25,805 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:42:25,805 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:42:27,063 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:42:27,064 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:42:27,064 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-18 23:42:28,512 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: adding category
+2023-10-18 23:42:28,514 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-18 23:42:28,577 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-18 23:42:28,578 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-18 23:55:47,534 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-18 23:55:47,534 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-18 23:55:47,534 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:03:21,208 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:03:21,209 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:03:21,209 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:03:22,311 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:03:22,311 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:03:22,311 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:03:27,283 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:03:27,286 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:03:29,820 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:03:29,821 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:03:29,821 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:04:53,533 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:04:53,534 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:04:53,534 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:04:55,688 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:04:55,690 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:04:55,755 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:04:55,755 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:04:58,857 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:04:58,857 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:04:58,857 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:05:10,291 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:05:10,291 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:05:10,291 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:05:11,213 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:05:11,214 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:05:11,214 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:05:15,168 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:05:15,170 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:05:15,228 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:05:15,229 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:08:51,728 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:08:51,728 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:08:51,728 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:09:44,903 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:09:44,903 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:09:44,903 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:09:46,142 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:09:46,142 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:09:46,142 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:09:53,245 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:09:53,249 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:09:53,308 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:09:53,308 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:11:01,083 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:11:01,083 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:11:01,083 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:11:04,561 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:11:04,563 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:11:04,621 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:11:04,622 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:13:32,410 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:13:32,411 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:13:32,411 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:13:32,731 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:13:32,733 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:13:32,789 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:13:32,789 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:13:32,852 - kuberCart - INFO - [CatagoryValidation] - Inserting a new seller account into our database
+2023-10-19 10:13:32,871 - kuberCart - INFO - [CatagoryValidation] - catagory Electronics successfully added.
+2023-10-19 10:14:11,983 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:14:11,983 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:14:11,983 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:14:20,347 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:14:20,347 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:14:20,347 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:14:26,767 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:14:26,768 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:14:26,768 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:15:07,437 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:15:07,437 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:15:07,437 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:15:09,869 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:15:09,870 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:15:09,870 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:15:12,478 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:15:12,480 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:15:12,536 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:15:12,536 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:15:12,538 - kuberCart - INFO - [CatagoryValidation] - catagory found, returning info
+2023-10-19 10:15:12,539 - kuberCart - ERROR - [CatagoryValidation] - category Electronics already exists
+2023-10-19 10:15:54,756 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:15:54,756 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:15:54,756 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:15:59,030 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:15:59,030 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:15:59,030 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:16:02,323 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:16:02,324 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:16:02,324 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:16:22,854 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:16:22,854 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:16:22,854 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:17:25,386 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:17:25,386 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:17:25,386 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:17:26,333 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-19 10:17:26,333 - kuberCart - INFO - [Main] - starting catagory listing service
+2023-10-19 10:17:26,333 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-19 10:17:32,495 - kuberCart - INFO - [CatagoryListing] - Thread Thread-6: Registering seller
+2023-10-19 10:17:32,501 - kuberCart - INFO - [CatagoryValidation] - Making a connection to the database
+2023-10-19 10:17:32,564 - kuberCart - INFO - [CatagoryValidation] - Checking if a catagory is already exists in our database or not
+2023-10-19 10:17:32,564 - kuberCart - INFO - [CatagoryValidation] - query = SELECT * FROM `ProductCategory` where name=%s
+2023-10-19 10:17:32,616 - kuberCart - INFO - [CatagoryValidation] - adding a new category into our database
+2023-10-19 10:17:32,637 - kuberCart - INFO - [CatagoryValidation] - catagory Electronics successfully added.
